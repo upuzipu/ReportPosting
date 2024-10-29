@@ -1,0 +1,15 @@
+https://admin.itmo.ru/api/admin-sport/competitions/2028/students --- post student to competition
+
+no example
+
+https://admin.itmo.ru/api/admin-sport/competitions/2028/students/335042/results --- post result to student
+
+{
+  "id": null,
+  "date": "2024-10-23",
+  "discipline_id": 659,
+  "competition_place_id": 1,
+  "win_percentage_id": null
+}
+
+example of json
